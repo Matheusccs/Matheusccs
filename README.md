@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Matheus Correa Costa e Silva, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, curso Ciência da Computação na UniRitter e trabalho como Suporte Helpdesk, atuando com configurações de rede e gestão de servidores. Estou em busca de uma transição para a área de desenvolvimento, aprimorando meus conhecimentos em programação e desenvolvimento de software.
+Meu nome é Matheus Correa Costa e Silva, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, curso Ciência da Computação na UniRitter e trabalho como Suporte Helpdesk, atuando com configurações de rede e gestão de servidores. Estou em busca de transição para a área de desenvolvimento, aprimorando meus conhecimentos em programação e desenvolvimento de software.
 
 ---
 
