@@ -109,16 +109,12 @@ Atualmente estou em <strong>transição para a área de Desenvolvimento de Softw
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusccs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Estatísticas do GitHub" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusccs&theme=tokyonight&layout=compact&langs_count=8&border_radius=10&hide=html,css" alt="Linguagens Mais Utilizadas" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusccs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusccs&theme=tokyonight&layout=compact&langs_count=8&border_radius=10&hide=html,css&cache_seconds=1800" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusccs&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusccs&theme=tokyo-night&hide_border=true&radius=10" alt="Gráfico de Atividade" />
+  <img src="https://streak-stats.demolab.com/?user=matheusccs&theme=tokyonight&hide_border=true&border_radius=10&cache=1800" alt="GitHub Streak" />
 </div>
 
 ---
